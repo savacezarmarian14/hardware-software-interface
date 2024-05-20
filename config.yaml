@@ -233,6 +233,35 @@ docusaurus:
                               - Find Substring/: find-substring/
                               - Mul Arrays/: mul-arrays/
                               - Courses/: courses/
+      - Lab 10 - C - Assembly Interaction:
+            - Compatibility Issues:
+                path: chapters/memory-layout/c-assembly-interaction
+                subsections:
+                  - Reading/: reading/
+                  - Drills:
+                      path: drills/
+                      subsections:
+                        - Tasks:
+                            path: tasks/
+                            subsections:
+                              - Cpp Obs/: cpp-obs/
+                              - Export Fix/: export-fix/
+                              - Include Fix/: include-fix/
+                              - Registers Preserve/: regs-preserve/
+            - Stack Handling:
+                path: chapters/stack/c-assembly-interaction
+                subsections:
+                  - Reading/: reading/
+                  - Drills:
+                      path: drills/
+                      subsections:
+                        - Tasks:
+                            path: tasks/
+                            subsections:
+                              - Max C Calls/: max-c-calls/
+                              - Max Assembly Calls/: max-assembly-calls/
+                              - Max C Calls x64/: max-c-calls-x64/
+                              - Stack Frame/: stack-frame/
       - Lab 11 - Buffer Management. Buffer Overflow:
             - Introduction to Buffers:
                 path: chapters/memory-security/buffers-intro/
